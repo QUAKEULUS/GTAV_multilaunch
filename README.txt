@@ -1,7 +1,6 @@
-# GTAV_multilaunch
-
-
-
+GTAV_multilaunch
+Allows to quickly swithc between 2 installs and profile settings while preserving savegame data
+Also a bonus third profile for additional configurations
 
 
 Have clean install directory, make new textfile:
