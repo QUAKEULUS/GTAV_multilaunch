@@ -3,26 +3,27 @@
 
 
 
-Have clean install directory, put
-_ONLINE_FLAG.txt
+
+Have clean install directory, make new textfile:
+"_ONLINE_FLAG.txt"
 in
+
 ..\GTAV\_ONLINE_FLAG.txt
 
 
 Have game directory with mods (like VR mod)
 rename it to 
-GTAV_MOD instead of GTAV
-put
-_MOD_FLAG.txt
-in
-..\GTAV_MOD\_MOD_FLAG.txt
+GTAV_MOD instead of GTAV 
+ make new textfile: "_MOD_FLAG.txt"
+in 
+..\GTAV_MOD\_MOD_FLAG.txt 
 
 
-Browse
-C:\Users\YOURNAME\Documents\Rockstar Games\GTA V\
-put _PROFILE_FLAG_ONLINE.txt
-in
-C:\Users\YOURNAME\Documents\Rockstar Games\GTA V\_PROFILE_FLAG_ONLINE.txt
+Browse 
+C:\Users\YOURNAME\Documents\Rockstar Games\GTA V\ 
+ make new textfile: "_PROFILE_FLAG_ONLINE.txt"
+in 
+C:\Users\YOURNAME\Documents\Rockstar Games\GTA V\_PROFILE_FLAG_ONLINE.txt 
 
 
 C:\Users\YOURNAME\Documents\Rockstar Games\GTA V\
